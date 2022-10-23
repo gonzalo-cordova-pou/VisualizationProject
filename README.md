@@ -1,5 +1,4 @@
-# Information Visualization lab
-First practical work
+# Information Visualization lab (using Altair Python library)
 
 
 
@@ -25,7 +24,7 @@ able to answer the following questions:
 ## Notebooks
 
 - [**data_analysis.ipynb**](./data_analysis.ipynb): Notebook exploring data and creating visualizations to answer the stated questions
-- [**data_analysis_interactive_charts.ipynb**]() : Notebook exploring data and creating interactive visualizations to answer deeper questions.
+- [**data_analysis_interactive_charts.ipynb**](./interactive_chart_notebook.zip) : (*had to be zipped due to size limit*) Notebook exploring data and creating interactive visualizations to answer deeper questions.
 
 ## Result
 
