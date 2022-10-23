@@ -1,5 +1,4 @@
-# Information Visualization lab
-First practical work
+# Information Visualization lab (using Altair Python library)
 
 
 
